@@ -35,7 +35,7 @@
 
 <p align="center">
   <img src="https://images.credly.com/images/62db59ef-19f9-4652-a00c-7582baee8177/blob" alt="Data Science Essentials with Python" width="200"/>
-  <img src="https://www.credly.com/earner/earned/share/5d7141b1-ad1d-4268-91c9-5c0df6c0a856" alt="Certificate 2" width="200"/>
+  <img src="https://www.credly.com/badges/5d7141b1-ad1d-4268-91c9-5c0df6c0a856/public_url" alt="Certificate 2" width="200"/>
   <img src="URL_TO_YOUR_BADGE_3" alt="Certificate 3" width="200"/>
 </p>
 
