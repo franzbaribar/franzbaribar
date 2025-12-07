@@ -31,6 +31,19 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
+## 🏅 Achievements
+
+<p align="center">
+  <img src="<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="06833f5c-dde6-487c-8838-b63645239655" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>" alt="Certificate 1" width="200"/>
+  <img src="URL_TO_YOUR_BADGE_2" alt="Certificate 2" width="200"/>
+  <img src="URL_TO_YOUR_BADGE_3" alt="Certificate 3" width="200"/>
+</p>
+
+<p align="center">
+  <img src="URL_TO_YOUR_BADGE_4" alt="Certificate 4" width="200"/>
+  <img src="URL_TO_YOUR_BADGE_5" alt="Certificate 5" width="200"/>
+</p>
+
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=franzbaribar)](https://github.com/ryo-ma/github-profile-trophy)
