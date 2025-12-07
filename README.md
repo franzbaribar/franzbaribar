@@ -14,6 +14,8 @@
 
 **Fun fact:** My dream is to turn my house into a feline fortress with, like, TEN cats. Is it chaotic? Absolutely. Is it worth it for all that cuteness and awesome? 100%.
 
+### 🌟 [Check Out My Portfolio →](https://jaylord-franz-portfolio.vercel.app/)
+
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaylord-franz-baribar-30663337b/)
