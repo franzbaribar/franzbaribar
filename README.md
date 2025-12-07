@@ -1,10 +1,15 @@
 # Hey there, I'm Jaylord Franz P. Baribar! 👋
 
 🎓 I.T. grad from the Technological University of the Philippines who loves turning milkshake into code ☕
+
 💻 I build things for the web platforms
+
 🧩 Problem solver at heart, always looking for elegant solutions
+
 🚀 Exploring the endless possibilities of technology
+
 📖 Lifelong learner with certifications in data science, database management, and Python
+
 💄 When I'm not coding, you'll find me creating beauty and lifestyle contents on Tiktok!
 
 **Fun fact:** My dream is to turn my house into a feline fortress with, like, TEN cats. Is it chaotic? Absolutely. Is it worth it for all that cuteness and awesome? 100%.
