@@ -34,7 +34,7 @@
 ## 🏅 Achievements
 
 <p align="center">
-  <img src="<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="06833f5c-dde6-487c-8838-b63645239655" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>" alt="Certificate 1" width="200"/>
+  <img src="<https://www.credly.com/badges/06833f5c-dde6-487c-8838-b63645239655/public_url" alt="Certificate 1" width="200"/>
   <img src="URL_TO_YOUR_BADGE_2" alt="Certificate 2" width="200"/>
   <img src="URL_TO_YOUR_BADGE_3" alt="Certificate 3" width="200"/>
 </p>
