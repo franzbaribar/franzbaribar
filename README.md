@@ -34,7 +34,7 @@
 ## 🏅 Achievements
 
 <p align="center">
-  <img src="<https://www.credly.com/badges/06833f5c-dde6-487c-8838-b63645239655/public_url" alt="Certificate 1" width="200"/>
+  <img src="https://images.credly.com/images/62db59ef-19f9-4652-a00c-7582baee8177/blob" alt="Data Science Essentials with Python" width="200"/>
   <img src="URL_TO_YOUR_BADGE_2" alt="Certificate 2" width="200"/>
   <img src="URL_TO_YOUR_BADGE_3" alt="Certificate 3" width="200"/>
 </p>
