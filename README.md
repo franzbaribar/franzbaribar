@@ -30,6 +30,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=franzbaribar)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **franzbaribar/franzbaribar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
