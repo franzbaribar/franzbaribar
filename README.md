@@ -37,13 +37,8 @@
   <img src="https://images.credly.com/images/62db59ef-19f9-4652-a00c-7582baee8177/blob" alt="Data Science Essentials with Python" width="200"/>
   <img src="https://images.credly.com/size/220x220/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" alt="JavaScript Essentials 1" width="200"/>
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/160456643" alt="R for Everyone: An Introduction" width="200"/>
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/160456643" alt="R for Everyone: An Introduction" width="200"/>
 </p>
-
-<p align="center">
-  <img src="URL_TO_YOUR_BADGE_4" alt="Certificate 4" width="200"/>
-  <img src="URL_TO_YOUR_BADGE_5" alt="Certificate 5" width="200"/>
-</p>
-
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=franzbaribar)](https://github.com/ryo-ma/github-profile-trophy)
