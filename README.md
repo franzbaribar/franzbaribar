@@ -1,6 +1,6 @@
 # Hey there, I'm Jaylord Franz P. Baribar! 👋
 
-🎓 I.T. grad from the Technological University of the Philippines who loves turning milkshake into code ☕
+🎓 Fourth-year I.T. student from the Technological University of the Philippines who loves turning milkshake into code ☕
 
 💻 I build things for the web platforms
 
