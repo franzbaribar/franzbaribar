@@ -1,4 +1,4 @@
-<img width="1061" height="582" alt="image" src="https://github.com/user-attachments/assets/06cd8f96-3433-4084-b4b4-06079334f3fc" /># Hey there, I'm Jaylord Franz P. Baribar! 👋
+# Hey there, I'm Jaylord Franz P. Baribar! 👋
 
 🎓 Fourth-year I.T. student from the Technological University of the Philippines who loves turning milkshake into code ☕
 
